@@ -73,5 +73,5 @@ apis = APIManager("{your key here}")
 ## Installation
 
 ```bash
-pip install pyrapidapi
+pip install git+https://github.com/ckoshka/pyrapidapi
 ```
